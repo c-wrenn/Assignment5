@@ -1,6 +1,6 @@
 # Assignment5
 
-## Learning Outcome: 
+## Learning Outcome:
 ### - How to create a child process
 ### - How to use stdin and stdout
 ### - How to use pipes
